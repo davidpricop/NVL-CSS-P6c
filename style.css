@@ -123,5 +123,43 @@ footer p {
     margin-left: 10%;
 }
 
+textarea, input{
+    resize: none;
+}
 
+.content-opinionespreguntas {
+    float: left;
+    width: 70%;
+}
+
+.content-opinion {
+    float: left;
+}
+
+.content-pregunta {
+    float: left;
+}
+
+.form-title {
+    margin-block-start: 0px;
+    margin-block-end: 10px
+}
+
+.title1 {
+    color: violet;
+    font-weight: bold;
+}
+.title2 {
+    color: violet;
+    font-weight: bold;
+}
+
+.textarea-opinion {
+    margin: 10px;
+}
+
+.pregunta {
+    margin: 10px;
+    width: 315px;
+}
 
